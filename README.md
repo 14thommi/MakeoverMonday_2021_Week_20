@@ -5,7 +5,7 @@
 Have you wondered if you could beat a bear in a fight? Is your belief different than the opposite sex?
 
 
-Go to Tableau Public: https://public.tableau.com/profile/michael.r.thompson#!/vizhome/MOM2021Week15/Main?publish=yes 
+Go to Tableau Public: https://public.tableau.com/views/MOM2021Week20/ManvsWoman?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 ## References
